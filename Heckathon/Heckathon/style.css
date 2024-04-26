@@ -1,0 +1,44 @@
+.anchor{
+    border-radius: 20px !important;
+}
+
+.back{
+background-image: url(./imgaes/Rectangle\ 14.png);
+background-size: cover;
+height: 80vh;
+}
+
+.bg{
+    background-color: #FAFAFA;
+    border-radius: 50px;
+}
+
+.hed{
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
+
+.par{
+    color: black !important;
+    font-size: 2rem !important;
+    font-weight: normal !important;
+}
+
+.for{
+    border-radius: 50px;
+}
+
+.buttt{
+    border-radius: 50px !important;
+}
+
+.hes{
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+.bak{
+    background-image: url(./imgaes/Rectangle\ 14.png);
+    background-size: cover;
+    height: 85vh;
+    }
